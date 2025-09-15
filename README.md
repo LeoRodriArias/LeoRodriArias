@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://tenor.com/pR4oEqNPRMX.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/tvZ9zLHGj7kAAAAd/thorfinn-sigma.gif" width="300"/>
 </div>
 
 
