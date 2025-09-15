@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://tenor.com/pR4oEqNPRMX.gif](https://tenor.com/pR4oEqNPRMX.gif)" alt="Coding GIF" width="300"/>
+  <img src="https://tenor.com/pR4oEqNPRMX.gif " width="300"/>
 </div>
 
 
