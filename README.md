@@ -1,6 +1,9 @@
 # <div align="center">Leonardo Rodriguez</div>
 
 
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center"> 
   <a href="https://github.com/LeoRodriArias?tab=repositories&sort=stargazers">
