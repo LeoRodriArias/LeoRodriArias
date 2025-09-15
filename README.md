@@ -1,5 +1,6 @@
 # <div align="center">Leonardo Rodriguez</div>
 
+
 <div align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
@@ -7,6 +8,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/a1/f7/08/a1f708eac9d21acb7f2768fc6c9fc321.jpg" width="300"/>
 </div>
+
 
 <div align="center"> 
   <a href="https://github.com/LeoRodriArias?tab=repositories&sort=stargazers">
@@ -16,13 +18,7 @@
 </div>
 
 ---
-
-## 👋 Sobre mí
-Hola! Soy **Leonardo**, me encanta el desarrollo **Full Stack** 💻 y los videojuegos 🎮.  
-[Mi Portafolio](https://LeoRodriArias.github.io/Portafolio) | [LinkedIn](https://www.linkedin.com/in/leorodriarias/)
-
----
-
+ 
 ## 💻 Tech Stack 
 
 <table align="center">
@@ -99,19 +95,6 @@ Hola! Soy **Leonardo**, me encanta el desarrollo **Full Stack** 💻 y los video
     </td>
   </tr>
 </table>
-
----
-
-## 🎮 Proyectos Destacados
-
-[![CarnavalIA](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)](https://github.com/LeoRodriArias/carnavalIA)  
-Juego interactivo de laberinto con IA.
-
-[![Portafolio Animado](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)](https://LeoRodriArias.github.io/Portafolio)  
-Portafolio personal con animaciones y secciones interactivas.
-
-[![GIF Presentación](https://media1.tenor.com/m/tvZ9zLHGj7kAAAAd/thorfinn-sigma.gif)](https://LeoRodriArias.github.io/Portafolio)  
-GIF divertido y representativo de mi estilo.
 
 ---
 
