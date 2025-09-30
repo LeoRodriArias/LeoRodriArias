@@ -101,37 +101,37 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-light.png" alt="Cypress" width="48" height="48" />
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="48" height="48"/>
       <p>Cypress</p>
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/gilbarbara/logos/raw/main/logos/pytest.svg" alt="Pytest" width="48" height="48" />
+      <img src="https://static-00.iconduck.com/assets.00/pytest-icon-256x256-xtis4f7p.png" alt="Pytest" width="48" height="48"/>
       <p>Pytest</p>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/postmanlabs/newman/develop/assets/logo.png" alt="Newman" width="48" height="48" />
+      <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Newman" width="48" height="48"/>
       <p>Newman</p>
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/1716302?s=200&v=4" alt="JMeter" width="48" height="48" />
+      <img src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg" alt="JMeter" width="48" height="48"/>
       <p>JMeter</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4" alt="Selenium" width="48" height="48" />
+      <img src="https://cdn.worldvectorlogo.com/logos/selenium.svg" alt="Selenium" width="48" height="48"/>
       <p>Selenium</p>
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/gilbarbara/logos/raw/main/logos/cucumber.svg" alt="Cucumber" width="48" height="48" />
+      <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="48" height="48"/>
       <p>Cucumber</p>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" width="48" height="48" />
+      <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" width="48" height="48"/>
       <p>SonarQube</p>
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/4083411?s=200&v=4" alt="K6" width="48" height="48" />
+      <img src="https://cdn.worldvectorlogo.com/logos/k6-1.svg" alt="K6" width="48" height="48"/>
       <p>K6</p>
     </td>
   </tr>
