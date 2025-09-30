@@ -50,7 +50,7 @@
 
 ---
 
-## 🧪 QA & Testing (íconos corregidos — usan badges fiables)
+## 🧪 QA & Testing 
 
 <p align="center">
   <!-- fila 1 -->
