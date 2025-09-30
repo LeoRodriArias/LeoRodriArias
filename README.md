@@ -50,23 +50,68 @@
 
 ---
 
-## 🧪 QA & Testing Tools  
+## 🧪 QA & Testing (íconos corregidos — usan badges fiables)
 
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="48" height="48"/><p>Cypress</p></td>
-    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/Pytest.svg" alt="Pytest" width="48" height="48"/><p>Pytest</p></td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="Newman" width="48" height="48"/><p>Newman</p></td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/apache-jmeter.svg" alt="JMeter" width="48" height="48"/><p>JMeter</p></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/selenium.svg" alt="Selenium" width="48" height="48"/><p>Selenium</p></td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" width="48" height="48"/><p>Cucumber</p></td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" width="48" height="48"/><p>SonarQube</p></td>
-    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/k6-1.svg" alt="K6" width="48" height="48"/><p>K6</p></td>
-  </tr>
-</table>  
+<p align="center">
+  <!-- fila 1 -->
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-04D361?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+  <img alt="Playwright Visual" src="https://img.shields.io/badge/Playwright-visual-testing?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
 
+<p align="center">
+  <!-- fila 2 -->
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img alt="Newman (Postman runner)" src="https://img.shields.io/badge/Newman-(Postman)--FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-151515?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- fila 3 -->
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;
+  <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-6CC24A?style=for-the-badge&logo=cucumber&logoColor=white" />&nbsp;
+  <img alt="k6" src="https://img.shields.io/badge/k6-FF6A00?style=for-the-badge&logo=k6&logoColor=white" />&nbsp;
+  <img alt="JMeter" src="https://img.shields.io/badge/JMeter-4E8C1A?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- fila 4 -->
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4D9E39?style=for-the-badge&logo=sonarqube&logoColor=white" />&nbsp;
+  <img alt="Newman CLI" src="https://img.shields.io/badge/Newman-CLI-0A0A0A?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img alt="Newman Reports" src="https://img.shields.io/badge/Newman-Reports-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📋 Focus en QA  
+✔️ Pruebas funcionales (UI y API)  
+✔️ Automatización con Cypress, Playwright y Selenium  
+✔️ Pruebas de rendimiento con k6 / JMeter  
+✔️ Validación de APIs con Postman / Newman  
+✔️ Testing unitario e integración (Jest, JUnit, Pytest)  
+✔️ Calidad de código y cobertura (SonarQube, cobertura)  
+✔️ CI/CD y pipelines (GitHub Actions / GitLab CI)  
+✔️ BDD (Cucumber) y diseño de casos de prueba legibles  
+✔️ Test Data Management, Mocking y Stubbing  
+✔️ Pruebas de accesibilidad y usabilidad (a11y)  
+✔️ Observabilidad y logging para validar fallos en producción
+
+---
+
+## 🔭 Proyectos de QA (destacados)
+- **Cypress - SauceDemo (E2E)** — `github.com/LeoRodriArias/cypress-saucedemo`  
+  *Testing E2E: login, carrito y checkout; integrado a GitHub Actions.*  
+
+- **API Tests - Postman Collections** — `github.com/LeoRodriArias/postman-collections`  
+  *Colección de pruebas API + Newman para integración en CI.*  
+
+- **Performance - k6 Load Tests** — `github.com/LeoRodriArias/k6-load-tests`  
+  *Escenarios de carga para endpoints críticos.*  
+
+- **Playwright - Cross-browser Suite** — `github.com/LeoRodriArias/playwright-suite`  
+  *Pruebas cross-browser y visual testing.*  
 ---
 
 ## 📊 GitHub Stats  
