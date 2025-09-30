@@ -1,14 +1,12 @@
 # <div align="center">Leonardo Rodriguez</div>
 
-
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Full+Stack+Developer;QA+Automation;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/a1/f7/08/a1f708eac9d21acb7f2768fc6c9fc321.jpg" width="300"/>
 </div>
-
 
 <div align="center"> 
   <a href="https://github.com/LeoRodriArias?tab=repositories&sort=stargazers">
@@ -18,7 +16,7 @@
 </div>
 
 ---
- 
+
 ## 💻 Tech Stack 
 
 <table align="center">
@@ -98,6 +96,59 @@
 
 ---
 
+## 🧪 QA & Testing  
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="48" height="48" />
+      <p>Jest</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon-64x64.png" alt="Cypress" width="48" height="48" />
+      <p>Cypress</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/playwright.svg" alt="Playwright" width="48" height="48" />
+      <p>Playwright</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+      <p>Postman</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
+      <p>Selenium</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="JUnit" width="48" height="48" />
+      <p>JUnit</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytest" alt="Pytest" width="48" height="48" />
+      <p>Pytest</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/K6-logo.svg" alt="K6" width="48" height="48" />
+      <p>K6</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📋 Focus en QA  
+✔️ Pruebas funcionales (UI y API)  
+✔️ Automatización con Cypress y Playwright  
+✔️ Pruebas de rendimiento con K6  
+✔️ Validación de APIs con Postman y Newman  
+✔️ Testing unitario e integración (Jest, JUnit, Pytest)  
+✔️ Conceptos de QAOps y CI/CD para integración con pipelines  
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -121,4 +172,3 @@
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@LeoRodriArias?theme=rule34" />
 </div>
-
